@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignOfIntegerNumbers", "Fundamentals_2021_Methods\SignOfIntegerNumbers.csproj", "{C3491291-5926-4ECD-BA6D-A13F48A688CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grades", "Grades\Grades.csproj", "{1B386D6B-87C2-48E6-B5F8-2528E7D4A389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingTriangle", "PrintingTriangle\PrintingTriangle.csproj", "{A498A70D-2B33-48DC-848D-EE8CCF7B0DE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculations", "Calculations\Calculations.csproj", "{8C8C8B68-093C-4521-BD98-12AF128C7132}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3491291-5926-4ECD-BA6D-A13F48A688CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3491291-5926-4ECD-BA6D-A13F48A688CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3491291-5926-4ECD-BA6D-A13F48A688CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3491291-5926-4ECD-BA6D-A13F48A688CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B386D6B-87C2-48E6-B5F8-2528E7D4A389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B386D6B-87C2-48E6-B5F8-2528E7D4A389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B386D6B-87C2-48E6-B5F8-2528E7D4A389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B386D6B-87C2-48E6-B5F8-2528E7D4A389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A498A70D-2B33-48DC-848D-EE8CCF7B0DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A498A70D-2B33-48DC-848D-EE8CCF7B0DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A498A70D-2B33-48DC-848D-EE8CCF7B0DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A498A70D-2B33-48DC-848D-EE8CCF7B0DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C8C8B68-093C-4521-BD98-12AF128C7132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8C8B68-093C-4521-BD98-12AF128C7132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8C8B68-093C-4521-BD98-12AF128C7132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8C8B68-093C-4521-BD98-12AF128C7132}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF4BF43-13A3-475F-9E6F-075C431BCBE8}
+	EndGlobalSection
+EndGlobal
